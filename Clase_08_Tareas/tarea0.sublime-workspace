@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"response"
+			],
+			[
+				"R",
+				"request"
+			],
+			[
+				"r",
+				"response"
+			],
+			[
+				"c",
+				"callBack"
+			],
+			[
+				"f",
+				"funcion"
+			],
+			[
+				"s",
+				"suma"
+			],
+			[
+				"n",
+				"nuevoObjeto"
+			],
+			[
+				"t",
+				"tarea1"
+			],
+			[
+				"d",
+				"davidMovies"
+			],
+			[
+				"m",
+				"maryMovies"
+			],
+			[
+				"li",
+				"libroFavorito"
+			],
+			[
+				"l",
+				"libroRuso"
+			],
+			[
+				"libo",
+				"librosClaves"
+			],
+			[
+				"libros",
+				"librosClaves"
+			],
+			[
+				"libro",
+				"libroRuso"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"L",
+				"libroEspañol"
+			],
+			[
+				"a",
+				"avatarMovie"
+			],
+			[
+				"aa",
+				"avatar"
+			],
+			[
+				"p",
+				"prueba"
+			],
+			[
+				"o",
+				"otraFunc"
+			],
+			[
+				"u",
+				"una"
+			],
+			[
+				"e",
+				"exports"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"U",
+				"User1"
+			],
+			[
+				"da",
+				"david"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"proto",
+				"Prototypos"
+			],
+			[
+				"prot",
+				"proto\tPrototype"
+			],
+			[
+				"pe",
+				"pedirPeticion"
+			],
+			[
+				"ll",
+				"llamarServidor"
+			],
+			[
+				"h",
+				"hacerLlamada"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"orde",
+				"orderNumber"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"i",
+				"imprimir"
+			],
+			[
+				"mi",
+				"miObjeto"
+			],
+			[
+				"v",
+				"valor1"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"x",
+				"x2"
+			],
+			[
+				"F",
+				"function"
+			],
+			[
+				"z",
+				"zip"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sever.js",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"h",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"pakege",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Practicas/index.html",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Practicas/sever.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/ServerApp3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/index.html",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/ServerApp2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/ServerApp1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/ServerApp.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_08_Ejemplos/ServerApp1",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/log.txt",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/log.tex",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/dato.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/ejen.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/piza.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/tarea1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/pizza1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Tareas/Tareas07.sublime-project",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/pizza.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/pizza",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/app.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/app3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/app2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/david.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/mary.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/movies.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_07_Ejemplos/app1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/tarea3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/app.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/datos.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/movies.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/Clase_06_Practica2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/juan.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/datos,js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/boris1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/Clase_06_Ejemplos_Clase.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/movies2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/movies1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/Clase-06_Practicas1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/mary.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/dos2.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/david.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app6.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app4.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/app.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/prueba.sublime-project",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_05_Prototipos.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_05_Tareas.js",
+		"/Users/juangarciamontalvillo/Clase_06/uno.js",
+		"/Users/juangarciamontalvillo/Clase_06/app.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/tres.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/uno1.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/app3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/app3.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/dos.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/uno.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/Clase_06_Tareas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Tareas/tarea0.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/uno.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_06_Modules/dos.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_04_Tareas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_05_Practicas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_05.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/primero.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Practicando.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_04_Practicas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Uno.html",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_3_Tareas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_03_Tareas.js",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/var x = 10.js",
+		"/Users/juangarciamontalvillo/Downloads/primero.js",
+		"/Users/juangarciamontalvillo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/juangarciamontalvillo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_03_Tareas",
+		"/Users/juangarciamontalvillo/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/juangarciamontalvillo/Library/Application Support/Sublime Text 3/Packages/User/sc.sublime-build"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sever.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 362.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tarea0.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 329.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
