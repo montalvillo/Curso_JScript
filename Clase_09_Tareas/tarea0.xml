@@ -1,0 +1,25 @@
+<<?xml version="1.0" encoding="UTF-8"?>
+
+	<EuroStoxx50>
+		<level>3.447,20></level>
+		<variation>-0,36></variation>
+
+	</EuroStoxx50>
+
+	<NYSE>
+		<level>3.447,20></level>
+		<variation>0,34></variation>
+	</NYSE>
+
+
+<Nasdaq>
+		<level>7.152,34></level>
+		<variation>-0,29></variation>
+	</Nasdaq>
+
+
+
+<FTSE>
+		<level>7.681,07></level>
+		<variation>-0,30></variation>
+	</Nasdaq>>

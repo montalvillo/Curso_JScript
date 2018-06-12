@@ -1,0 +1,26 @@
+{
+	"EuroStoxx50":{
+		"level": 3450.23,
+		"variaton":-0.30,
+		
+	},
+
+	"NYSE":{
+		"level":12380,
+		"variaton": 0.34,
+		
+	},
+
+
+"Nasdaq" : {
+		"level":7152,
+		"variaton":-0.29,
+		
+	},
+	"FISE" : {
+		"level":7681,
+		"variaton":-0.30,
+		
+	}
+
+}
