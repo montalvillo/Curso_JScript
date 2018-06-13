@@ -200,15 +200,6 @@
 	"buffers":
 	[
 		{
-			"file": "dato.json",
-			"settings":
-			{
-				"buffer_size": 151,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Boris/dato.xml",
 			"settings":
 			{
@@ -227,10 +218,13 @@
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Boris/tarea0.js",
+			"file_size": 1757,
+			"file_write_time": 131732873869878253,
 			"settings":
 			{
-				"buffer_size": 1757,
+				"buffer_size": 0,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -300,6 +294,7 @@
 	],
 	"file_history":
 	[
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Tareas/dato.json",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Tareas/uno.json",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Tareas/tarea0.json",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Tareas/app1.js",
@@ -428,40 +423,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "dato.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 151,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								151,
-								151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Boris/dato.xml",
 					"semi_transient": false,
 					"settings":
@@ -489,7 +455,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Boris/index.html",
 					"semi_transient": false,
 					"settings":
@@ -517,20 +483,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_09_Boris/tarea0.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1757,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1223,
-								1223
+								0,
+								0
 							]
 						],
 						"settings":
@@ -539,7 +505,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 618.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

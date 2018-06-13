@@ -23,7 +23,7 @@ function callBack(request,response){
 		
 		//Proceso de repuesta
 		response.writeHead(200, {"Contex-Type":"text/html"});
-		fs.createReadStream("./tarea0.xml").pipe(response);
+		fs.createReadStream("./tarea0.json").pipe(response);
 
 		
 
