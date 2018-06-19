@@ -13,7 +13,7 @@ function respuestaError404(response){
 function callBack(request,response){
 
 
-	if(request.method == 'POST'){
+	if(request.method == 'GET'){
 
 
 		var queryData = url.parse(request.url,true).query;
@@ -21,11 +21,11 @@ function callBack(request,response){
 		console.log('Post message recive');
 		console.log(queryData);
 
-		if (queryData.nombre == 'Pepa' && queryData.password == '1245') { // se va a ejecutar por el true
+		if (queryData.nombre == 'pepa') { // se va a ejecutar por el true
 
 			//Respuesta
 			response.writeHead(200, {"Contex-Type":"text/html"});
-			fs.createReadStream("./OK.xml").pipe(response);
+			fs.createReadStream("./Bien.xml").pipe(response);
 
 		} else {
 
