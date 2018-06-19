@@ -13,7 +13,7 @@ function respuestaError404(response){
 function callBack(request,response){
 
 
-	if(request.method == 'GET'){
+	if(request.method == 'POST'){
 
 
 		var queryData = url.parse(request.url,true).query;
@@ -21,7 +21,7 @@ function callBack(request,response){
 		console.log('Post message recive');
 		console.log(queryData);
 
-		if (queryData.nombre == 'pepa') { // se va a ejecutar por el true
+		if (queryData.nombre == 'pepa' && queryData.clave =='1234') { // se va a ejecutar por el true
 
 			//Respuesta
 			response.writeHead(200, {"Contex-Type":"text/html"});

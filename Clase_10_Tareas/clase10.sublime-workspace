@@ -200,22 +200,10 @@
 	"buffers":
 	[
 		{
-			"contents": "var http = require('http');\nvar fs = require('fs');\nvar url = require('url');\n\nfunction respuestaError404(response){\n\n\tresponse.writeHead(404, {\"Contex-Type\":\"text/plain\"});\n\n\tresponse.write(\"Error 404 - Pagina no existe...atontao en app2\");\n\tresponse.end();\n}\n\nfunction callBack(request,response){\n\n\n\tif(request.method == 'POST'){\n\n\n\t\tvar queryData = url.parse(request.url,true).query;\n\n\t\tconsole.log('Post message recive');\n\t\tconsole.log(queryData);\n\n\t\tif (queryData.nombre == 'Pepa' && queryData.password == '1245') { // se va a ejecutar por el true\n\n\t\t\t//Respuesta\n\t\t\tresponse.writeHead(200, {\"Contex-Type\":\"text/html\"});\n\t\t\tfs.createReadStream(\"./OK.xml\").pipe(response);\n\n\t\t} else {\n\n\t\t\t//Respuesta\n\t\t\tresponse.writeHead(200, {\"Contex-Type\":\"text/html\"});\n\t\t\tfs.createReadStream(\"./Error.xml\").pipe(response);\n\t\t} \n\t} else {\n\n \t\trespuestaError404(response);\n\n \t}\n}\n\t\t\n\nhttp.createServer(callBack).listen(8888);\nconsole.log(\"Servidor en marcha\");\n\n",
-			"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/server1.js",
-			"file_size": 0,
-			"file_write_time": 131738223904305984,
-			"settings":
-			{
-				"buffer_size": 953,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "Bien.xml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 180,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -224,7 +212,16 @@
 			"file": "Error.xml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 951,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -290,9 +287,11 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Tareas"
 	],
 	"file_history":
 	[
+		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/server1.js",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/Error.xml",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/OK.xml",
 		"/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/app2.js",
@@ -414,53 +413,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/juangarciamontalvillo/JavaScript_Practicas/Clase_10_Ejemplos/server1.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 953,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								953,
-								953
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 158.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "Bien.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								180,
+								180
 							]
 						],
 						"settings":
@@ -471,24 +441,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "Error.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								129,
+								129
 							]
 						],
 						"settings":
@@ -500,7 +470,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -539,7 +538,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 195.0
+		"height": 472.0
 	},
 	"output.find_results":
 	{
